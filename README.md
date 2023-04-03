@@ -22,7 +22,7 @@
   <br/>
   
   * Link do design do projeto no Figma: <a href="https://www.figma.com/file/1k24YZFJDC3SaVfounYttY/HASH-CODE-SCHOOL?node-id=0%3A1&t=hGl27aPzPT8gpRQP-          1">clique aqui</a>.
-  * Link do deploy do site: <a href="">clique aqui</a> (Em construção 🏗️👷).
+  * Link do deploy do site: <a href="https://jams35.github.io/Landing-page-da-Hash-Code-School/">clique aqui</a>
   
 </p>
 
